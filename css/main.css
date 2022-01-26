@@ -23,7 +23,7 @@ p:last-child {
 /*
     main styles
     author: Roman Bondar<85bondar@gmail.com>
-    version: 22.01.2022
+    version: 26.01.2022
 */
 
 :root {
@@ -62,15 +62,9 @@ p:last-child {
     padding: 0 15px;
     max-width: var(--max-width);
 }
-.site__header {
-    /* border-bottom: 1px solid var(--font-color-1); */
-}
 .site__header-contacts {
     display: none;
 }
-.site__header-side {}
-.site__header-side + .site__header-side {}
-.site__header-main {}
 .site__header-main .site__centered {
     position: relative;
     height: 93px;
@@ -115,7 +109,6 @@ p:last-child {
     border: none;
     cursor: pointer;
     user-select: none;
-    /* margin-top: 1px; */
 }
 .site__header-open span {
     display: block;
@@ -181,8 +174,6 @@ p:last-child {
     -ms-transform: rotate(-45deg);
     transform: rotate(-45deg);
 }
-.site__header-open span {}
-.site__header-close {}
 .site__header-controls {
     position: absolute;
     top: 36px;
@@ -210,7 +201,6 @@ p:last-child {
 /* --------------- /site --------------- */
 
 /* ------------ market-info ------------ */
-.market-info {}
 .market-info__item {
     display: block;
     padding: 10px 20px;
@@ -221,7 +211,6 @@ p:last-child {
 .market-info__txt {
     color: var(--font-color-1);
 }
-.market-info__item:first-child {}
 .market-info__icon {
     margin-right: 3px;
 }
@@ -235,7 +224,6 @@ p:last-child {
 .goods-trolley {
     cursor: pointer;
 }
-.goods-trolley svg {}
 /* ------------ /goods-trolley ------------ */
 
 /* ------------ social ------------ */
@@ -259,7 +247,6 @@ p:last-child {
 /* ------------ /social ------------ */
 
 /* --------------- logo --------------- */
-.logo {}
 .logo img {
     display: block;
     height: auto;
@@ -300,8 +287,6 @@ p:last-child {
 /* ------------ /footer-menu ------------ */
 
 /* ------------ products-preview ------------ */
-.products-preview {}
-.products-preview__swiper {}
 .products-preview .swiper-slide {
     position: relative;
     height: auto;
@@ -353,7 +338,6 @@ p:last-child {
     justify-content: center;
     align-items: stretch;
 }
-.products-preview .swiper-pagination .swiper-pagination-bullet-active {}
 .products-preview__inner {
     text-align: center;
     padding: 10px;
@@ -412,8 +396,6 @@ p:last-child {
     background: url(../img/our-address__bg.jpg) center;
     background-size: cover;
 }
-.our-address__wrap {}
-.our-address__side {}
 .our-address__side + .our-address__side {
     display: none;
 }
@@ -429,7 +411,6 @@ p:last-child {
     position: relative;
     padding-left: 25px;
 }
-.our-address__tel {}
 .our-address__coordinates {
     margin-bottom: 10px;
 }
@@ -458,9 +439,6 @@ p:last-child {
     color: var(--font-color-3);
     cursor: default;
 }
-.our-address__btn {}
-.our-address__map {}
-.our-address__dotes {}
 .our-address__dotes-item {
     position: absolute;
     width: 5px;
@@ -513,7 +491,6 @@ p:last-child {
 /* ------------ /intro ------------ */
 
 /* ------------ our-contacts ------------ */
-.our-contacts {}
 .our-contacts__row {
     font-style: normal;
     color: var(--font-color-3);
@@ -536,7 +513,6 @@ p:last-child {
     text-transform: uppercase;
     margin-bottom: 5px;
 }
-.our-contacts__city:after {}
 .our-contacts__location {
     line-height: 1.5;
 }
@@ -627,58 +603,16 @@ p:last-child {
 @media screen and (min-width: 540px) {
 
     /* ------------ partner-logo ------------ */
-    .partner-logo {}
-    .partner-logo__wrap {}
     .partner-logo__item {
         width: 33.3333%;
     }
-    .partner-logo__pic {}
     /* ------------ /partner-logo ------------ */
-
-    /* ------------ our-address ------------ */
-    .our-address {}
-    .our-address__wrap {}
-    .our-address__side {}
-    .our-address__side + .our-address__side {}
-    .our-address__row {}
-    .our-address__coordinates {}
-    .our-address__coordinates a {}
-    .our-address__tel {}
-    .our-address__tel a {}
-    .our-address__btn {}
-    .our-address__map {}
-    .our-address__dotes {}
-    .our-address__dotes-item {}
-    .our-address__dotes-item_1 {}
-    .our-address__dotes-item_2 {}
-    .our-address__dotes-item_3 {}
-    /* ------------ /our-address ------------ */
-
-    /* ------------ intro ------------ */
-    .intro {}
-    .intro:before {}
-    .intro__title {}
-    /* ------------ /intro ------------ */
 
 }
 
 @media screen and (min-width: 768px) {
 
     /* --------------- site --------------- */
-    .site {}
-    .site__centered {}
-    .site__header {}
-    .site__header-contacts {}
-    .site__header-side {}
-    .site__header-side + .site__header-side {}
-    .site__header-main {}
-    .site__header-menu {}
-    .site__header-open {}
-    .site__header-open span {}
-    .site__header-wrap {}
-    .site__header-close {}
-    .site__header-controls {}
-    .site__footer {}
     .site__footer .site__centered {
         display: flex;
         justify-content: space-between;
@@ -691,30 +625,6 @@ p:last-child {
         font-size: 32px;
     }
     /* --------------- /site --------------- */
-
-    /* ------------ market-info ------------ */
-    .market-info {}
-    .market-info__item {}
-    .market-info__item:first-child {}
-    .market-info__icon {}
-    .market-info__icon svg {}
-    /* ------------ /market-info ------------ */
-
-    /* ------------ goods-trolley ------------ */
-    .goods-trolley {}
-    .goods-trolley svg {}
-    /* ------------ /goods-trolley ------------ */
-
-    /* ------------ social ------------ */
-    .social {}
-    .social__item {}
-    .social__item svg {}
-    /* ------------ /social ------------ */
-
-    /* --------------- logo --------------- */
-    .logo {}
-    .logo img {}
-    /* --------------- /logo --------------- */
 
     /* ------------ copyright ------------ */
     .copyright {
@@ -733,31 +643,24 @@ p:last-child {
         vertical-align: top;
         margin: 4px 5px;
     }
-    .footer-menu__link {}
     /* ------------ /footer-menu ------------ */
 
     /* ------------ products-preview ------------ */
     .products-preview {
         padding-bottom: 30px;
     }
-    .products-preview__swiper {}
     .products-preview .swiper-slide {
         padding: 70px 0 100px;
     }
     .products-preview__title {
         font-size: 40px;
     }
-    .products-preview__btn {}
     .products-preview__pagination {
         display: block;
         margin-top: -50px;
         position: relative;
         z-index: 1;
     }
-    .products-preview .products-preview__pagination .swiper-pagination-bullet {}
-    .products-preview .products-preview__pagination .swiper-pagination-bullet-active {}
-    .products-preview__inner {}
-    .products-preview__icon {}
     .products-preview__name {
         font-size: 18px;
     }
@@ -788,15 +691,7 @@ p:last-child {
     }
     /* ------------ /about-us ------------ */
 
-    /* ------------ partner-logo ------------ */
-    .partner-logo {}
-    .partner-logo__wrap {}
-    .partner-logo__item {}
-    .partner-logo__pic {}
-    /* ------------ /partner-logo ------------ */
-
     /* ------------ our-address ------------ */
-    .our-address {}
     .our-address__wrap {
         display: flex;
         align-items: center;
@@ -808,37 +703,24 @@ p:last-child {
         display: block;
         width: 60%;
     }
-    .our-address__row {}
-    .our-address__coordinates {}
-    .our-address__coordinates a {}
-    .our-address__tel {}
-    .our-address__tel a {}
-    .our-address__btn {}
     .our-address__map {
         position: relative;
         padding-bottom: 70%;
         background: url(../img/map.svg) no-repeat center;
         background-size: contain;
     }
-    .our-address__dotes {}
-    .our-address__dotes-item {}
-    .our-address__dotes-item_1 {}
-    .our-address__dotes-item_2 {}
-    .our-address__dotes-item_3 {}
     /* ------------ /our-address ------------ */
 
     /* ------------ intro ------------ */
     .intro {
         height: 300px;
     }
-    .intro:before {}
     .intro__title {
         font-size: 46px;
     }
     /* ------------ /intro ------------ */
 
     /* ------------ our-contacts ------------ */
-    .our-contacts {}
     .our-contacts__row {
         display: flex;
         align-items: start;
@@ -849,16 +731,12 @@ p:last-child {
         padding: 0 15px;
         margin: 0;
     }
-    .our-contacts__row:first-child {}
     .our-contacts__city {
         width: 22%;
         font-size: 15px;
     }
     .our-contacts__city:after {
         content: "";
-        /* position: absolute; */
-        /* top: 50%; */
-        /* transform: translate(1.5rem,-50%); */
         width: 15px;
         height: 1px;
         background-color: var(--font-color-3);
@@ -872,21 +750,11 @@ p:last-child {
     .our-contacts__phone {
         width: 20%;
     }
-    .our-contacts__phone a {}
     .our-contacts__map {
         width: 30%;
         text-align: right;
     }
-    .our-contacts__map a {}
-    .our-contacts__map a:after {}
-    .our-contacts {}
     /* ------------ /our-contacts ------------ */
-
-    /* ------------ social-icons ------------ */
-    .social-icons {}
-    .social-icons__item {}
-    .social-icons__item svg {}
-    /* ------------ /social-icons ------------ */
 
 }
 
@@ -905,8 +773,6 @@ p:last-child {
     /* ------------ /btn ------------ */
 
     /* --------------- site --------------- */
-    .site {}
-    .site__centered {}
     .site__header {
         border-bottom: none;
     }
@@ -948,7 +814,6 @@ p:last-child {
     .site__header-open {
         display: none;
     }
-    .site__header-open span {}
     .site__header-wrap {
         position: static;
         z-index: 1;
@@ -987,7 +852,6 @@ p:last-child {
     /* --------------- /site --------------- */
 
     /* ------------ market-info ------------ */
-    .market-info {}
     .market-info__item {
         display: inline-block;
         vertical-align: top;
@@ -1000,7 +864,6 @@ p:last-child {
     .market-info__icon {
         margin-right: 2px;
     }
-    .market-info__icon svg {}
     .market-info__txt {
         letter-spacing: -0.5px;
     }
@@ -1019,11 +882,6 @@ p:last-child {
     }
     /* ------------ /market-info ------------ */
 
-    /* ------------ goods-trolley ------------ */
-    .goods-trolley {}
-    .goods-trolley svg {}
-    /* ------------ /goods-trolley ------------ */
-
     /* ------------ social ------------ */
     .social {
         padding: 0;
@@ -1034,16 +892,9 @@ p:last-child {
     .social__item:hover {
         color: var(--brand-color-1);
     }
-    .social__item svg {}
     /* ------------ /social ------------ */
 
-    /* --------------- logo --------------- */
-    .logo {}
-    .logo img {}
-    /* --------------- /logo --------------- */
-
     /* ------------ menu ------------ */
-    .menu {}
     .menu__item {
         display: inline-block;
         vertical-align: top;
@@ -1090,7 +941,6 @@ p:last-child {
     .products-preview {
         padding-bottom: 50px;
     }
-    .products-preview__swiper {}
     .products-preview .swiper-slide {
         padding: 73px 0 116px;
         min-height: 400px;
@@ -1099,7 +949,6 @@ p:last-child {
         font-size: 60px;
         margin-bottom: 40px;
     }
-    .products-preview__btn {}
     .products-preview__pagination {
         margin-top: -77px;
         padding-bottom: 30px;
@@ -1147,18 +996,10 @@ p:last-child {
     }
     /* ------------ /products-preview ------------ */
 
-    /* ------------ about-us ------------ */
-    .about-us {}
-    .about-us:before {}
-    .about-us__wrap {}
-    /* ------------ /about-us ------------ */
-
     /* ------------ partner-logo ------------ */
     .partner-logo {
         padding: 70px 0;
     }
-    .partner-logo__wrap {}
-    .partner-logo__item {}
     .partner-logo__pic {
         max-width: 340px;
         margin: 0 auto;
@@ -1167,50 +1008,33 @@ p:last-child {
     /* ------------ /partner-logo ------------ */
 
     /* ------------ our-address ------------ */
-    .our-address {}
-    .our-address__wrap {}
-    .our-address__side {}
-    .our-address__side + .our-address__side {}
     .our-address__row {
         font-size: 16px;
     }
-    .our-address__coordinates {}
     .our-address__coordinates a {
         transition: color 0.3s;
     }
     .our-address__coordinates a:hover {
         color: var(--brand-color-1);
     }
-    .our-address__tel {}
-    .our-address__tel a {}
     .our-address__btn {
         padding-top: 10px;
     }
-    .our-address__map {}
-    .our-address__dotes {}
-    .our-address__dotes-item {}
-    .our-address__dotes-item_1 {}
-    .our-address__dotes-item_2 {}
-    .our-address__dotes-item_3 {}
     /* ------------ /our-address ------------ */
 
     /* ------------ intro ------------ */
     .intro {
         height: 450px;
     }
-    .intro:before {}
     .intro__title {
         font-size: 60px;
     }
     /* ------------ /intro ------------ */
 
     /* ------------ our-contacts ------------ */
-    .our-contacts {
-    }
     .our-contacts__row {
         font-size: 15px;
     }
-    .our-contacts__row:first-child {}
     .our-contacts__city {
         font-size: 18px;
         letter-spacing: 1.5px;
@@ -1220,14 +1044,9 @@ p:last-child {
         width: 25px;
         height: 2px;
     }
-    .our-contacts__location {
-    }
-    .our-contacts__phone {}
-    .our-contacts__phone a {}
     .our-contacts__map {
         font-size: 14px;
     }
-    .our-contacts__map a {}
     .our-contacts__map a:after {
         width: 18px;
         height: 18px;
@@ -1237,11 +1056,9 @@ p:last-child {
     .our-contacts__map a:hover:after {
         transform: translate(3px, 0);
     }
-    .our-contacts {}
     /* ------------ /our-contacts ------------ */
 
     /* ------------ social-icons ------------ */
-    .social-icons {}
     .social-icons__item {
         width: 120px;
         height: 120px;
@@ -1264,78 +1081,28 @@ p:last-child {
 @media screen and (min-width: 1340px) {
 
     /* --------------- site --------------- */
-    .site {}
-    .site__centered {}
-    .site__header {}
-    .site__header-contacts {}
-    .site__header-side {}
-    .site__header-side + .site__header-side {}
-    .site__header-main {}
-    .site__header-menu {}
-    .site__header-open {}
-    .site__header-open span {}
-    .site__header-wrap {}
-    .site__header-close {}
-    .site__header-controls {}
-    .site__footer {}
     .site__title {
         font-size: 50px;
     }
     /* --------------- /site --------------- */
 
-    /* ------------ market-info ------------ */
-    .market-info {}
-    .market-info__item {}
-    .market-info__item:first-child {}
-    .market-info__icon {}
-    .market-info__icon svg {}
-    /* ------------ /market-info ------------ */
-
-    /* ------------ goods-trolley ------------ */
-    .goods-trolley {}
-    .goods-trolley svg {}
-    /* ------------ /goods-trolley ------------ */
-
-    /* ------------ social ------------ */
-    .social {}
-    .social__item {}
-    .social__item svg {}
-    /* ------------ /social ------------ */
-
-    /* --------------- logo --------------- */
-    .logo {}
-    .logo img {}
-    /* --------------- /logo --------------- */
-
-    /* ------------ copyright ------------ */
-    .copyright {}
-    /* ------------ /copyright ------------ */
-
     /* ------------ products-preview ------------ */
     .products-preview {
         padding-bottom: 173px;
     }
-    .products-preview__swiper {}
     .products-preview .swiper-slide {
         min-height: 500px;
     }
-    .products-preview__title {}
-    .products-preview__btn {}
     .products-preview__pagination {
         padding-bottom: 50px;
     }
-    .products-preview .products-preview__pagination .swiper-pagination-bullet {}
-    .products-preview .products-preview__pagination .swiper-pagination-bullet:before {}
-    .products-preview .products-preview__pagination .swiper-pagination-bullet-active {}
     .products-preview .products-preview__pagination .swiper-pagination-bullet-active:before {
         transform: scale(1.2, 1.35);
     }
-    .products-preview__inner {}
     .products-preview__icon {
         width: 80px;
         height: 60px;
     }
-    .products-preview__name {}
     .products-preview__txt {
         font-size: 16px;
     }
@@ -1345,7 +1112,6 @@ p:last-child {
     .about-us {
         padding: 80px 0;
     }
-    .about-us:before {}
     .about-us__wrap {
         padding-left: 80px;
     }
@@ -1355,72 +1121,50 @@ p:last-child {
     .partner-logo {
         padding: 115px 0;
     }
-    .partner-logo__wrap {}
-    .partner-logo__item {}
-    .partner-logo__pic {}
     /* ------------ /partner-logo ------------ */
 
     /* ------------ our-address ------------ */
     .our-address {
         padding: 120px 0 90px;
     }
-    .our-address__wrap {}
-    .our-address__side {}
-    .our-address__side + .our-address__side {}
     .our-address__row {
         margin-bottom: 37px;
     }
-    .our-address__coordinates {}
-    .our-address__coordinates a {}
-    .our-address__tel {}
-    .our-address__tel a {}
-    .our-address__btn {}
     .our-address__map {
         width: 724px;
         height: 483px;
         padding-bottom: 0;
         margin: 0 auto;
     }
-    .our-address__dotes {}
     .our-address__dotes-item {
         width: 8px;
         height: 8px;
     }
-    .our-address__dotes-item_1 {}
-    .our-address__dotes-item_2 {}
-    .our-address__dotes-item_3 {}
     /* ------------ /our-address ------------ */
 
     /* ------------ intro ------------ */
     .intro {
         height: 550px;
     }
-    .intro:before {}
     .intro__title {
         font-size: 70px;
     }
     /* ------------ /intro ------------ */
 
     /* ------------ our-contacts ------------ */
-    .our-contacts {}
     .our-contacts__row {
         font-size: 18px;
         padding: 60px 0;
     }
-    .our-contacts__row:first-child {}
     .our-contacts__city {
         font-size: 24px;
     }
     .our-contacts__city:after {
         margin: 14px 0 0 15px;
     }
-    .our-contacts__location {}
-    .our-contacts__phone {}
-    .our-contacts__phone a {}
     .our-contacts__map {
         font-size: 18px;
     }
-    .our-contacts__map a {}
     .our-contacts__map a:after {
         width: 22px;
         height: 22px;
@@ -1438,7 +1182,6 @@ p:last-child {
     .social-icons__item {
         margin-right: 30px;
     }
-    .social-icons__item svg {}
     /* ------------ /social-icons ------------ */
 
 }
