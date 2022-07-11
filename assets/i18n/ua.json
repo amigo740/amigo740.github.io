@@ -1,0 +1,617 @@
+{
+  "address": {
+    "contactCenter": "Контакт-центр",
+    "country": "Україна",
+    "fax": "ф.",
+    "location": "вул. Хрещатик, 22, м. Київ"
+  },
+
+  "button": {
+    "choose": "Обрати",
+    "confirm": "Підтвердити",
+    "continue": "Продовжити",
+    "pay": "Оплатити",
+    "remove": "Видалити",
+    "edit": "Редагувати",
+    "inputFile": {
+      "forAllStamps": "Прикріпити зображення ( на всі марки )",
+      "forImage": "Прикріпити зображення"
+    }
+  },
+
+  "cropperPic": {
+    "advice": "<p>Щоб правильно розташувати та відформатувати зображення, торкайтеся або «перетягуйте» елементи керування.</p>",
+    "changeSize": "Зміна розміру",
+    "move": "Пересунути",
+    "rotation": "Обертання"
+  },
+
+  "currency": {
+    "uah": "грн"
+  },
+
+  "headerMenu": {
+    "business": {
+      "href": "https://www.ukrposhta.ua/ua/ukrposhta-dlia-biznesu",
+      "text": "Бізнесу"
+    },
+    "career": {
+      "href": "https://www.ukrposhta.ua/ua/vacancies/",
+      "text": "Кар’єра"
+    },
+    "departments": {
+      "href": "https://offices.ukrposhta.ua",
+      "text": "Відділення"
+    },
+    "mainPage": {
+      "href": "https://www.ukrposhta.ua/ua",
+      "text": "Головна"
+    },
+    "philately": {
+      "title": "Філателія",
+      "column1": {
+        "link1": {
+          "href": "https://postmark.ukrposhta.ua/",
+          "text": "Поштовий маркет"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ua/informatsiia-dlia-pokuptsiv",
+          "text": "Інформація для покупців"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ua/tematychni-plany-vypusku-produktsii",
+          "text": "Тематичнi плани випуску продукції"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ua/filatelistychnyi-abonement",
+          "text": "Філателістичний абонемент"
+        }
+      },
+      "column2": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ua/spetsialni-poshtovi-shtempeli-postiinoi-dii",
+          "text": "Спеціальні поштові штемпелі постійної дії"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ua/zhurnal-filateliia-ukrainy",
+          "text": "Журнал «Філателія України»"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ua/filatelistichni-vistavky",
+          "text": "Філателістичні виставки"
+        }
+      },
+      "column3": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ua/vlasna-marka",
+          "text": "Продукти<br>«Власної<br>марки»\n <span class=\"block-link\">Докладніше</span>"
+        }
+      }
+    },
+    "services": {
+      "title": "Послуги",
+      "column1": {
+        "title": "Поштові послуги",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ua/ekspres",
+          "text": "Укрпошта Експрес"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ua/standart",
+          "text": "Укрпошта Стандарт"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ua/dokumenty",
+          "text": "Укрпошта Документи"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ua/mizhnarodni-vidpravlennia",
+          "text": "Доставка за межі України"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ua/dostavka-v-ukrainu",
+          "text": "Доставка в Україну"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ua/mytne-oformlennia",
+          "text": "Митно-брокерські послуги"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ua/vidpravlennia-masoiu-ponad-30-kh",
+          "text": "Відправлення понад 30 кг"
+        },
+        "link8": {
+          "href": "https://www.ukrposhta.ua/ua/lyst-poshtova-kartka",
+          "text": "Лист, поштова картка"
+        },
+        "link9": {
+          "href": "https://www.ukrposhta.ua/ua/banderol",
+          "text": "Бандероль"
+        },
+        "link10": {
+          "href": "http://services.ukrposhta.com/courier",
+          "text": "Кур’єрська доставка"
+        },
+        "link11": {
+          "href": "https://www.ukrposhta.ua/ua/upakuvannia",
+          "text": "Упакування"
+        },
+        "link12": {
+          "href": "https://www.ukrposhta.ua/ua/dostavku-z-internet-mahazyniv-vidnovleno",
+          "text": "Доставка з інтернет-магазинів"
+        },
+        "link13": {
+          "href": "https://www.ukrposhta.ua/ua/sezon-ogorodiv",
+          "text": "Доставка товарів для городу"
+        },
+        "link14": {
+          "href": "https://www.ukrposhta.ua/ua/dostavka-likiv",
+          "text": "Доставка ліків"
+        }
+      },
+      "column2": {
+        "title": "Сервіси",
+        "link1": {
+          "href": "https://calc.ukrposhta.ua",
+          "text": "Калькулятор"
+        },
+        "link2": {
+          "href": "https://ok.ukrposhta.ua/ua",
+          "text": "Оформити відправлення"
+        },
+        "link3": {
+          "href": "https://index.ukrposhta.ua/find-post-index",
+          "text": "Знайти індекс"
+        },
+        "link4": {
+          "href": "https://index.ukrposhta.ua/find-address",
+          "text": "Знайти адресу"
+        },
+        "link5": {
+          "href": "https://offices.ukrposhta.ua",
+          "text": "Знайти відділення"
+        },
+        "link6": {
+          "href": "https://track.ukrposhta.ua/tracking_UA.html",
+          "text": "Трекінг"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ua/poshtomaty",
+          "text": "Видача через поштомати"
+        }
+      },
+      "column3": {
+        "title": "Фінансові послуги",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/perekaz-z-kartki-dodomu/",
+          "text": "Переказ «З картки додому»"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/perekaz-z-kartki-dodomu/",
+          "text": "Переказ «З картки до відділення»"
+        },
+        "link3": {
+          "href": "https://ukrposhta.ukrcard.com.ua/",
+          "text": "Переказ «З картки на картку»"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ua/hroshovyi-perekaz-z-kartok-bankiv-yevropy",
+          "text": "Переказ «З карток банків Європи»"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ua/mizhnarodnyi-poshtovyi-perekaz",
+          "text": "Міжнародні поштові перекази"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ua/poshtovi-perekazy-v-mezhakh-ukrainy",
+          "text": "Внутрішні поштові перекази"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ua/mizhnarodni-platizhni-systemy",
+          "text": "Міжнародні платіжні системи"
+        },
+        "link8": {
+          "href": "https://www.ukrposhta.ua/ua/vnutrishnoderzhavni-platizhni-systemy",
+          "text": "Внутрішньодержавні платіжні системи"
+        },
+        "link9": {
+          "href": "https://www.ukrposhta.ua/ua/oplata-onlain",
+          "text": "Оплата послуг онлайн"
+        },
+        "link10": {
+          "href": "https://www.ukrposhta.ua/ua/platezhi",
+          "text": "Платежі"
+        },
+        "link11": {
+          "href": "https://www.ukrposhta.ua/ua/pensii",
+          "text": "Пенсії"
+        },
+        "link12": {
+          "href": "https://www.ukrposhta.ua/ua/vydacha-hotivky-cherez-pos-terminal",
+          "text": "Видача готівки та поповнення платіжних карток через POS-термінал"
+        },
+        "link13": {
+          "href": "https://www.ukrposhta.ua/ua/strakhuvannia",
+          "text": "Страхові послуги"
+        }
+      },
+      "column4": {
+        "title": "Інші послуги",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ua/onlain-servisy",
+          "text": "Онлайн-сервіси"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ua/periodychni-vydannia",
+          "text": "Періодичні видання"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ua/dlia-vydavtsiv",
+          "text": "Для видавців"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ua/forma-zvorotnoho-zviazku",
+          "text": "Зворотний зв’язок за передплатою"
+        },
+        "link5": {
+          "href": "https://perekaz.ukrposhta.com/message1.php?request=iframe",
+          "text": "Електронне повідомлення"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ua/sekohrama",
+          "text": "Секограма"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ua/vlasna-marka",
+          "text": "Продукти «Власної марки»"
+        }
+      }
+    },
+    "tariffs": {
+      "title": "Тарифи",
+      "column1": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-ukrposhta-ekspres",
+          "text": "Укрпошта Експрес"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-ukrposhta-standart",
+          "text": "Укрпошта Стандарт"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-ukrposhta-dokumenty",
+          "text": "Укрпошта Документи"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-mizhnarodni-vidpravlennia",
+          "text": "Доставка за межі України"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-mizhnarodni-vidpravlennia-posylky",
+          "text": "Доставка за межі України (посилки)"
+        }
+      },
+      "column2": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-na-vidpravlennia-ems",
+          "text": "Відправлення EMS"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-vidpravlennia-v",
+          "text": "Великогабаритні або великовагові відправлення"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-masovyi-kurierskyi-zabir-abo-dostavka",
+          "text": "Масовий кур’єрський забір та доставка"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-literni-poshtovi-marky",
+          "text": "Вартість літерних поштових марок"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-vlasna-poshtova-produktsiia",
+          "text": "Продукти «Власної марки»"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-na-pryimannia-ta-dostavku-vydan-za-peredplatoiu",
+          "text": "Приймання та доставка видань за передплатою"
+        }
+      },
+      "column3": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-presa-poshtoiu",
+          "text": "Преса поштою"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-universalni-posluhy",
+          "text": "Універсальні послуги"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-inshi-posluhy",
+          "text": "Інші послуги"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-poshtovi-perekazy",
+          "text": "Поштові перекази"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ua/taryfy-na-suputni-posluhy-pry-ekspedyruvanni-periodychnykh-vydan",
+          "text": "Супутні послуги при експедируванні періодичних видань"
+        }
+      }
+    },
+    "tracking": {
+      "href": "https://track.ukrposhta.ua/tracking_UA.html",
+      "text": "Трекінг"
+    }
+  },
+
+  "links": {
+    "UPGallery": "Галерея Укрпошти"
+  },
+
+  "mainPage": {
+    "title": "Власна марка. Замовлення"
+  },
+
+  "popup": {
+    "orderInfo": {
+      "branchIndex": "Індекс відділення: {{params}}.",
+      "details": "Деталі:",
+      "deliveryRegisteredLetter": "рекомендований лист.",
+      "deliverySelfPickup": "самовивіз.",
+      "deliveryTypeTitle": "Тип доставки:",
+      "orderNumber": "Номер замовлення:",
+      "title": "Ваше замовлення прийнято!",
+      "totalCost": "Загальна вартість: {{params}} грн."
+    }
+  },
+
+  "profile": {
+    "login": "Вхід",
+    "registration": "Реєстрація"
+  },
+
+  "steps": {
+    "step1": {
+      "title": {
+        "default": "Обрати шаблон",
+        "active": "Шаблон"
+      },
+      "results": {
+        "envelope": {
+          "totalStamps": "Власний конверт.",
+          "costPerItem": "Вартість: {{params}} грн."
+        },
+        "postcard": {
+          "totalStamps": "Власна листівка.",
+          "costPerItem": "Вартість: {{params}} грн."
+        },
+        "stamps6": {
+          "totalStamps": "В аркуші: 6 марок.",
+          "costPerItem": "Вартість: {{params}} грн."
+        },
+        "stamps9": {
+          "totalStamps": "В аркуші: 9 марок.",
+          "costPerItem": "Вартість: {{params}} грн."
+        },
+        "stamps28": {
+          "totalStamps": "В аркуші: 28 марок.",
+          "costPerItem": "Вартість: {{params}} грн."
+        },
+        "stamps28Difference": {
+          "totalStamps": "В аркуші: 28 марок.",
+          "costPerItem": "Вартість: {{params}} грн."
+        }
+      }
+    },
+    "step2": {
+      "checkbox": "Підтверджую свою відповідальність за надане зображення відповідно до законодавства України, в тому числі й щодо порушення авторських та суміжних прав.",
+      "extension": "Розширення: 300 dpi (точок на дюйм).",
+      "format": "Формат файлу: doc, docx, rtf, txt, odt, pdf (10 Mб максимум).",
+      "pageCost": "Вартість аркушу",
+      "results": {
+        "envelope": {
+          "amount": "Кількість конвертів: {{params}}шт.",
+          "price": "Вартість: {{params}} грн."
+        },
+        "postcard": {
+          "amount": "Кількість листівок: {{params}}шт.",
+          "price": "Вартість: {{params}} грн."
+        },
+        "stamps6": {
+          "amount": "Кількість аркушів: {{params}}шт.",
+          "price": "Вартість: {{params}} грн."
+        },
+        "stamps9": {
+          "amount": "Кількість аркушів: {{params}}шт.",
+          "price": "Вартість: {{params}} грн."
+        },
+        "stamps28": {
+          "amount": "Кількість аркушів: {{params}}шт.",
+          "price": "Вартість: {{params}} грн."
+        },
+        "stamps28Difference": {
+          "amount": "Кількість аркушів: {{params}}шт.",
+          "price": "Вартість: {{params}} грн."
+        }
+      },
+      "title": {
+        "active": {
+          "envelope": "Зображення. Кількість зображень — 1.",
+          "postcard": "Зображення. Кількість зображень — 1.",
+          "stamps6": "Зображення. Кількість зображень — від 2 до 7.",
+          "stamps9": "Зображення. Кількість зображень — від 2 до 10.",
+          "stamps28": "Зображення. Кількість зображень — 1.",
+          "stamps28Difference": "Зображення. Кількість зображень — від 2 до 28."
+        },
+        "default": "Зображення"
+      },
+      "totalCost": "Загальна вартість",
+      "totalPages": "Кількість аркушів",
+      "totalStamps": "Усього марок:"
+    },
+    "step3": {
+      "title": {
+        "default": "Оформлення доставки",
+        "active": "Оформлення доставки"
+      }
+    },
+    "step4": {
+      "title": {
+        "default": "Оплата",
+        "active": ""
+      }
+    }
+  },
+
+  "templates": [
+    {
+      "title": "Аркуш з 6 марок",
+      "papers": "В аркуші: 6 марок",
+      "priceSingle": "Вартість: 9,00 грн",
+      "priceTotal": "240 грн"
+    },
+    {
+      "title": "Аркуш з 9 марок",
+      "papers": "В аркуші: 9 марок",
+      "priceSingle": "Вартість: 9,00 грн",
+      "priceTotal": "240 грн"
+    },
+    {
+      "title": "Аркуш з 28 марок (одне зображення)",
+      "papers": "В аркуші: 28 марок",
+      "priceSingle": "Вартість: 9,00 грн",
+      "priceTotal": "408 грн"
+    },
+    {
+      "title": "Аркуш з 28 марок (різні зображення)",
+      "papers": "В аркуші: 28 марок",
+      "priceSingle": "Вартість: 9,00 грн",
+      "priceTotal": "510 грн"
+    },
+    {
+      "title": "Власний конверт (C6)",
+      "priceTotal": "15 грн"
+    },
+    {
+      "title": "Власний конверт (DL)",
+      "priceTotal": "15 грн"
+    },
+    {
+      "title": "Власна листівка",
+      "priceTotal": "20 грн"
+    }
+  ],
+
+  "footer": {
+    "copyright": "Укрпошта. Всі права захищено.",
+    "policy": "<a href=\"https://ukrposhta.ua/ua/polityka-konfidentsiinosti\" target=\"_blank\">Політика конфіденційності</a>"
+  },
+
+  "footerMenu": {
+
+    "column1": {
+      "title": "Загальна інформація",
+      "items": [
+        "Про Укрпошту",
+        "Наглядова рада",
+        "Керівництво",
+        "Дирекції",
+        "Публічна інформація",
+        "Закупівлі",
+        "Продаж і оренда нерухомості",
+        "Протидія корупції",
+        "Конфіденційність",
+        "Для представників ЗМІ",
+        "Новини",
+        "Акції",
+        "Контакт-центр"
+      ]
+    },
+
+    "column2": {
+      "title": "Поштові послуги",
+      "items": [
+        "Укрпошта Експрес",
+        "Укрпошта Стандарт",
+        "Укрпошта Документи",
+        "Доставка за межі України",
+        "Доставка в Україну",
+        "Відправлення понад 30 кг",
+        "Кур’єрська доставка",
+        "Розрахунок вартості",
+        "Видача через поштомати"
+      ]
+    },
+
+    "column3": {
+      "title": "Фінансові послуги",
+      "items": [
+        "Переказ «З картки додому»",
+        "Переказ «З картки до відділення»",
+        "Переказ «З картки на картку»",
+        "Переказ «З карток банків Європи»",
+        "Міжнародні поштові перекази",
+        "Внутрішні поштові перекази",
+        "Оплата послуг онлайн",
+        "Платежі",
+        "Страхові послуги"
+      ]
+    },
+
+    "column4": {
+      "title": "Інше",
+      "items": [
+        "Онлайн-сервіси",
+        "Онлайн-передплата",
+        "Поштовий маркет",
+        "Продукти «Власної марки»",
+        "Періодичні видання",
+        "Для видавців",
+        "Електронне повідомлення",
+        "Секограма",
+        "Знайти індекс",
+        "Знайти адресу",
+        "Знайти відділення",
+        "Довідка",
+        "API від Укрпошти"
+      ]
+    }
+
+  },
+
+  "form": {
+    "checkBox": {
+      "procedureForUsing": "Погоджуюсь з <a href=\"#\" target=\"_blank\">порядком</a> користування Послугою"
+    },
+    "field": {
+      "apartmentNumber": "Квартира",
+      "district": "Район",
+      "houseNumber": "Буд.",
+      "index": "Індекс",
+      "locality": "Населений пункт",
+      "name": "Ім'я",
+      "patronymic": "По батькові",
+      "region": "Область",
+      "registeredLetter": "Рекомендований лист",
+      "selfPickup": "Самовивіз",
+      "street": "Вулиця",
+      "surname": "Прізвище"
+    },
+    "text": {
+      "deliveryCost": "Вартість доставки",
+      "orderCost": "Вартість замовлення",
+      "totalCost": "Загальна вартість"
+    },
+    "title": {
+      "addresses": "Адреса",
+      "branchIndex": "Індекс відділення",
+      "deliveryMethod": "Спосіб доставки",
+      "email": "Email",
+      "fullName": "ПІБ",
+      "phoneNumber": "Номер телефону"
+    }
+  }
+
+}

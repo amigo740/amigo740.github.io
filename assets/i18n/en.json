@@ -1,0 +1,617 @@
+{
+  "address": {
+    "contactCenter": "Contact center",
+    "country": "Ukraine",
+    "fax": "f.",
+    "location": "22 Khreshchatyk Street, Kyiv"
+  },
+
+  "button": {
+    "choose": "Choose",
+    "confirm": "Confirm",
+    "continue": "Continue",
+    "pay": "Pay",
+    "remove": "Remove",
+    "edit": "Edit",
+    "inputFile": {
+      "forAllStamps": "Attach image (to all stamps )",
+      "forImage": "Attach image"
+    }
+  },
+
+  "cropperPic": {
+    "advice": "<p>Touch or drag controls to properly position and format images.</p>",
+    "changeSize": "Resize",
+    "move": "Move",
+    "rotation": "Rotation"
+  },
+
+  "currency": {
+    "uah": "uah"
+  },
+
+  "headerMenu": {
+    "business": {
+      "href": "https://www.ukrposhta.ua/en/ukrposhta-dlia-biznesu",
+      "text": "Business"
+    },
+    "career": {
+      "href": "https://www.ukrposhta.ua/en/vacancies/",
+      "text": "Career"
+    },
+    "departments": {
+      "href": "https://offices.ukrposhta.ua",
+      "text": "Post offices"
+    },
+    "mainPage": {
+      "href": "https://www.ukrposhta.ua/en",
+      "text": "Home"
+    },
+    "philately": {
+      "title": "Philately",
+      "column1": {
+        "link1": {
+          "href": "https://postmark.ukrposhta.ua/",
+          "text": "Online shop"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/en/informatsiia-dlia-pokuptsiv",
+          "text": "Buyers information"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/en/tematychni-plany-vypusku-produktsii",
+          "text": "Thematic plan for philatelic products"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/en/filatelistychnyi-abonement",
+          "text": "Philatelic subscription"
+        }
+      },
+      "column2": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/en/spetsialni-poshtovi-shtempeli-postiinoi-dii",
+          "text": "Special postal stamps"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/en/zhurnal-filateliia-ukrainy",
+          "text": "Journal “Philately of Ukraine”"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/en/filatelistichni-vistavky",
+          "text": "Philatelic Exhibitions"
+        }
+      },
+      "column3": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/en/vlasna-marka",
+          "text": "Personalized<br>stamps\n <span class=\"block-link\">Learn more</span>"
+        }
+      }
+    },
+    "services": {
+      "title": "Services",
+      "column1": {
+        "title": "Postal services",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/en/ekspres",
+          "text": "Ukrposhta Express"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/en/standart",
+          "text": "Ukrposhta Standard"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/en/dokumenty",
+          "text": "Ukrposhta Documents"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/en/mizhnarodni-vidpravlennia",
+          "text": "Shipping outside Ukraine"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/en/dostavka-v-ukrainu",
+          "text": "Shipping to Ukraine"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/en/mytne-oformlennia",
+          "text": "Customs clearance"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/en/vidpravlennia-masoiu-ponad-30-kh",
+          "text": "Shipments over 30 kg"
+        },
+        "link8": {
+          "href": "https://www.ukrposhta.ua/en/lyst-poshtova-kartka",
+          "text": "Letter, postcard"
+        },
+        "link9": {
+          "href": "https://www.ukrposhta.ua/en/banderol",
+          "text": "Postal wrapper"
+        },
+        "link10": {
+          "href": "http://services.ukrposhta.com/courier",
+          "text": "Courier delivery"
+        },
+        "link11": {
+          "href": "https://www.ukrposhta.ua/en/upakuvannia",
+          "text": "Packaging"
+        },
+        "link12": {
+          "href": "https://www.ukrposhta.ua/en/dostavku-z-internet-mahazyniv-vidnovleno",
+          "text": "E-commerce shipping"
+        },
+        "link13": {
+          "href": "https://www.ukrposhta.ua/en/sezon-ogorodiv",
+          "text": "Goods for the garden delivery"
+        },
+        "link14": {
+          "href": "https://www.ukrposhta.ua/en/dostavka-likiv",
+          "text": "Drug delivery"
+        }
+      },
+      "column2": {
+        "title": "Services",
+        "link1": {
+          "href": "https://calc.ukrposhta.ua",
+          "text": "Cost calculation"
+        },
+        "link2": {
+          "href": "https://ok.ukrposhta.ua/en",
+          "text": "Online shipping"
+        },
+        "link3": {
+          "href": "https://index.ukrposhta.ua/find-post-index",
+          "text": "Find a post code"
+        },
+        "link4": {
+          "href": "https://index.ukrposhta.ua/find-address",
+          "text": "Find an address"
+        },
+        "link5": {
+          "href": "https://offices.ukrposhta.ua",
+          "text": "Find a post office"
+        },
+        "link6": {
+          "href": "https://track.ukrposhta.ua/tracking_EN.html",
+          "text": "Tracking"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/en/poshtomaty",
+          "text": "Issuance through parcel lockers"
+        }
+      },
+      "column3": {
+        "title": "Financial services",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/perekaz-z-kartki-dodomu/",
+          "text": "“From card to home” money transfer"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/perekaz-z-kartki-dodomu/",
+          "text": "“From card to post office” money transfer"
+        },
+        "link3": {
+          "href": "https://ukrposhta.ukrcard.com.ua/",
+          "text": "Money transfers from card to card"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/en/hroshovyi-perekaz-z-kartok-bankiv-yevropy",
+          "text": "Instant money transfers from Europe"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/en/mizhnarodnyi-poshtovyi-perekaz",
+          "text": "International postal money transfers"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/en/poshtovi-perekazy-v-mezhakh-ukrainy",
+          "text": "Domestic postal money transfers"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/en/mizhnarodni-platizhni-systemy",
+          "text": "International payment systems"
+        },
+        "link8": {
+          "href": "https://www.ukrposhta.ua/en/vnutrishnoderzhavni-platizhni-systemy",
+          "text": "Local Ukrainian payment systems"
+        },
+        "link9": {
+          "href": "https://www.ukrposhta.ua/en/oplata-onlain",
+          "text": "Online payments"
+        },
+        "link10": {
+          "href": "https://www.ukrposhta.ua/en/platezhi",
+          "text": "Payments"
+        },
+        "link11": {
+          "href": "https://www.ukrposhta.ua/en/pensii",
+          "text": "Pensions"
+        },
+        "link12": {
+          "href": "https://www.ukrposhta.ua/en/vydacha-hotivky-cherez-pos-terminal",
+          "text": "Cash withdrawal and replenishment of payment cards via POS-terminal"
+        },
+        "link13": {
+          "href": "https://www.ukrposhta.ua/en/strakhuvannia",
+          "text": "Insurance services"
+        }
+      },
+      "column4": {
+        "title": "Other services",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/en/onlain-servisy",
+          "text": "Online services"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/en/periodychni-vydannia",
+          "text": "Periodicals"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/en/dlia-vydavtsiv",
+          "text": "For publishers"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/en/forma-zvorotnoho-zviazku",
+          "text": "Periodicals feedback"
+        },
+        "link5": {
+          "href": "https://perekaz.ukrposhta.com/message1.php?request=iframe",
+          "text": "Hybrid mail"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/en/sekohrama",
+          "text": "Mail for the blind"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/en/vlasna-marka",
+          "text": "Personalized stamps"
+        }
+      }
+    },
+    "tariffs": {
+      "title": "Prices",
+      "column1": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-ukrposhta-ekspres",
+          "text": "Ukrposhta Express"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-ukrposhta-standart",
+          "text": "Ukrposhta Standard"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-ukrposhta-dokumenty",
+          "text": "Ukrposhta Documents"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-mizhnarodni-vidpravlennia",
+          "text": "International shipments"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-mizhnarodni-vidpravlennia-posylky",
+          "text": "International shipments (parcels)"
+        }
+      },
+      "column2": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-na-vidpravlennia-ems",
+          "text": "For EMS items"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-vidpravlennia-v",
+          "text": "Large or heavy shipments"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-masovyi-kurierskyi-zabir-abo-dostavka",
+          "text": "Bulk courier pickup or delivery"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-literni-poshtovi-marky",
+          "text": "Nominal value of literal stamps"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-vlasna-poshtova-produktsiia",
+          "text": "Stamps of own design"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-na-pryimannia-ta-dostavku-vydan-za-peredplatoiu",
+          "text": "Delivery of prepaid periodicals and publishings"
+        }
+      },
+      "column3": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-presa-poshtoiu",
+          "text": "Postal delivery of periodicals"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-universalni-posluhy",
+          "text": "Universal services"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-inshi-posluhy",
+          "text": "Other services"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-poshtovi-perekazy",
+          "text": "Money transfer"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/en/taryfy-na-suputni-posluhy-pry-ekspedyruvanni-periodychnykh-vydan",
+          "text": "Related services when forwarding periodicals"
+        }
+      }
+    },
+    "tracking": {
+      "href": "https://track.ukrposhta.ua/tracking_EN.html",
+      "text": "Tracking"
+    }
+  },
+
+  "links": {
+    "UPGallery": "Ukrposhta Gallery"
+  },
+
+  "mainPage": {
+    "title": "Own postage stamp. Order"
+  },
+
+  "popup": {
+    "orderInfo": {
+      "branchIndex": "Branch index: {{params}}.",
+      "details": "Details:",
+      "deliveryRegisteredLetter": "registered letter.",
+      "deliverySelfPickup": "self-pickup.",
+      "deliveryTypeTitle": "Delivery type:",
+      "orderNumber": "The order number:",
+      "title": "Your order has been accepted!",
+      "totalCost": "Total cost: {{params}} UAH."
+    }
+  },
+
+  "profile": {
+    "login": "Login",
+    "registration": "Registration"
+  },
+
+  "steps": {
+    "step1": {
+      "title": {
+        "default": "Choose a template",
+        "active": "Template"
+      },
+      "results": {
+        "envelope": {
+          "totalStamps": "Own envelope.",
+          "costPerItem": "Cost: UAH {{params}}."
+        },
+        "postcard": {
+          "totalStamps": "Own postcard.",
+          "costPerItem": "Cost: UAH {{params}}."
+        },
+        "stamps6": {
+          "totalStamps": "In the sheet: 6 stamps.",
+          "costPerItem": "Cost: UAH {{params}}."
+        },
+        "stamps9": {
+          "totalStamps": "In the sheet: 9 stamps.",
+          "costPerItem": "Cost: UAH {{params}}."
+        },
+        "stamps28": {
+          "totalStamps": "In the sheet: 28 stamps.",
+          "costPerItem": "Cost: UAH {{params}}."
+        },
+        "stamps28Difference": {
+          "totalStamps": "In the sheet: 28 stamps.",
+          "costPerItem": "Cost: UAH {{params}}."
+        }
+      }
+    },
+    "step2": {
+      "checkbox": "I confirm my responsibility for the provided image in accordance with the legislation of Ukraine, including the infringement of copyright and related rights.",
+      "extension": "Expansion: 300 dpi (dots per inch).",
+      "format": "File format: doc, docx, rtf, txt, odt, pdf (10 Mb maximum).",
+      "pageCost": "Cost of sheet",
+      "results": {
+        "envelope": {
+          "amount": "Number of envelopes: {{params}}pc.",
+          "price": "Price: UAH {{params}}."
+        },
+        "postcard": {
+          "amount": "Number of postcards: {{params}}pc.",
+          "price": "Price: UAH {{params}}."
+        },
+        "stamps6": {
+          "amount": "Number of sheets: {{params}}pc.",
+          "price": "Price: UAH {{params}}."
+        },
+        "stamps9": {
+          "amount": "Number of sheets: {{params}}pc.",
+          "price": "Price: UAH {{params}}."
+        },
+        "stamps28": {
+          "amount": "Number of sheets: {{params}}pc.",
+          "price": "Price: UAH {{params}}."
+        },
+        "stamps28Difference": {
+          "amount": "Number of sheets: {{params}}pc.",
+          "price": "Price: UAH {{params}}."
+        }
+      },
+      "title": {
+        "active": {
+          "envelope": "Image. Number of images - 1.",
+          "postcard": "Image. Number of images - 1.",
+          "stamps6": "Image. Number of images - from 2 to 7.",
+          "stamps9": "Image. Number of images - from 2 to 10.",
+          "stamps28": "Image. Number of images - 1.",
+          "stamps28Difference": "Image. Number of images - from 2 to 28."
+        },
+        "default": "Image"
+      },
+      "totalCost": "Total cost",
+      "totalPages": "Total sheets",
+      "totalStamps": "Total stamps:"
+    },
+    "step3": {
+      "title": {
+        "default": "Registration of delivery",
+        "active": "Registration of delivery"
+      }
+    },
+    "step4": {
+      "title": {
+        "default": "Payment",
+        "active": ""
+      }
+    }
+  },
+
+  "templates": [
+    {
+      "title": "Sheet of 6 stamps",
+      "papers": "In the sheet: 6 stamps",
+      "priceSingle": "Cost: UAH 9.00",
+      "priceTotal": "UAH 240"
+    },
+    {
+      "title": "Sheet of 9 stamps",
+      "papers": "In the sheet: 9 stamps",
+      "priceSingle": "Cost: UAH 9.00",
+      "priceTotal": "UAH 240"
+    },
+    {
+      "title": "Sheet of 28 stamps (one image)",
+      "papers": "In the sheet: 28 stamps",
+      "priceSingle": "Cost: UAH 9.00",
+      "priceTotal": "UAH 408"
+    },
+    {
+      "title": "Sheet of 28 stamps (various images)",
+      "papers": "In the sheet: 28 stamps",
+      "priceSingle": "Cost: UAH 9.00",
+      "priceTotal": "UAH 510"
+    },
+    {
+      "title": "Own envelope",
+      "priceTotal": "UAH 15"
+    },
+    {
+      "title": "Own envelope",
+      "priceTotal": "UAH 15"
+    },
+    {
+      "title": "Own postcard",
+      "priceTotal": "UAH 20"
+    }
+  ],
+
+  "footer": {
+    "copyright": "Ukrposhta. All rights reserved.",
+    "policy": "<a href=\"https://ukrposhta.ua/ua/polityka-konfidentsiinosti\" target=\"_blank\">Privacy policy</a>"
+  },
+
+  "footerMenu": {
+
+    "column1": {
+      "title": "General information",
+      "items": [
+        "About Ukrposhta",
+        "Supervisory board",
+        "Management",
+        "Regional branches",
+        "Public information",
+        "Procurement",
+        "Sale and rental of real estate",
+        "Anti-corruption",
+        "Privacy policy",
+        "For media",
+        "News",
+        "Promotions",
+        "Contact center"
+      ]
+    },
+
+    "column2": {
+      "title": "Postal services",
+      "items": [
+        "Ukrposhta Express",
+        "Ukrposhta Standard",
+        "Ukrposhta Documents",
+        "Shipping outside Ukraine",
+        "Shipping to Ukraine",
+        "Shipments over 30 kg",
+        "Courier delivery",
+        "Cost calculation",
+        "Issuance through parcel lockers"
+      ]
+    },
+
+    "column3": {
+      "title": "Financial services",
+      "items": [
+        "“From card to home” money transfer",
+        "“From card to post office” money transfer",
+        "Money transfers from card to card",
+        "Instant money transfers from Europe",
+        "International postal money transfers",
+        "Domestic postal money transfer",
+        "Online payments",
+        "Payments",
+        "Insurance services"
+      ]
+    },
+
+    "column4": {
+      "title": "Other",
+      "items": [
+        "Online services",
+        "Subscription to magazines and newspapers",
+        "Online shop",
+        "Personalized stamps",
+        "Periodicals",
+        "For publishers",
+        "Hybrid mail",
+        "Mail for the blind",
+        "Find a post code",
+        "Find an address",
+        "Find a post office",
+        "Background information",
+        "API documentation"
+      ]
+    }
+
+  },
+
+  "form": {
+    "checkBox": {
+      "procedureForUsing": "I agree with the <a href='#' target='_blank'>procedure</a> for using the Service"
+    },
+    "field": {
+      "apartmentNumber": "Flat",
+      "district": "District",
+      "houseNumber": "House",
+      "index": "Index",
+      "locality": "Locality",
+      "name": "Name",
+      "patronymic": "Patronymic",
+      "region": "Region",
+      "registeredLetter": "Registered letter",
+      "selfPickup": "Self-pickup",
+      "street": "Street",
+      "surname": "Surname"
+    },
+    "text": {
+      "deliveryCost": "Shipping cost",
+      "orderCost": "The cost of the order",
+      "totalCost": "The total cost"
+    },
+    "title": {
+      "addresses": "Address",
+      "branchIndex": "Branch index",
+      "deliveryMethod": "Delivery method",
+      "email": "Email",
+      "fullName": "Full name",
+      "phoneNumber": "Phone number"
+    }
+  }
+
+}
